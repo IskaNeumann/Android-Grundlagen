@@ -5,4 +5,6 @@ Wer es schon installiert hat einfach neues Projekt anlegen und schon mal die bei
 ## Code
 In den zwei Klassen (MainActivity.java und activity_main.xml) findet ihr den Code für meine Demo, damit ihr nicht mittippen müsst. Einfach in die beim Anlegen des Projektes (siehe Installationsanweisung) angelegten Klassen Copy und Pasten.
 ## Tutorial
-Nach meinem Vortag lade ich noch eine ausfühliche Erklärung zur live demo hoch.
+In der PFD Datei LiveDemoTutorial findet ihr die Anleitung für die App aus der Live Demo mit einp paar Erklärungen.
+## Folien
+Die Folien findet ihr in der PDF Datei Android Grundlagen Folien.
